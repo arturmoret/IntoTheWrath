@@ -1,9 +1,9 @@
 # INTO THE WRATH - Custom C++ & OpenGL Engine
 
-**Project Type:** 3D First-Person Adventure / Custom Game Engine
-**Language:** C++17
-**Graphics API:** OpenGL 4.6
-**Dependencies:** GLFW, GLM, ImGui
+- **Project Type:** 3D First-Person Adventure / Custom Game Engine
+- **Language:** C++17
+- **Graphics API:** OpenGL 4.6
+- **Dependencies:** GLFW, GLM, ImGui
 
 ## Project Overview
 
